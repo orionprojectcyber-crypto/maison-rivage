@@ -4,7 +4,7 @@ description: Un authentique restaurant de cuisine gastronomique provençale ravi
 url: "https://orionprojectcyber-crypto.github.io"
 baseurl: "/maison-rivage"
 
-remote_theme: jeromelachaud/freelancer-theme
+remote_theme: biomadeira/jasper-theme
 
 plugins:
   - jekyll-remote-theme
