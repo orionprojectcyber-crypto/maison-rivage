@@ -1,10 +1,11 @@
 title: Maison Rivage
 description: Un authentique restaurant de cuisine gastronomique provençale ravissant le palais des amateurs comme des spécialistes !
 
+url: "https://orionprojectcyber-crypto.github.io"
 baseurl: "/maison-rivage"
-url: "https://orionprojectcyber-crypto.github.io/maison-rivage"
 
 remote_theme: jeromelachaud/freelancer-theme
 
 plugins:
   - jekyll-remote-theme
+  - jekyll-include-cache
